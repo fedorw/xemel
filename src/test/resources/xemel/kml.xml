@@ -1,0 +1,1169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1" xmlns:flickr="urn:flickr:">
+
+
+<NetworkLinkControl>
+	<minRefreshPeriod>900</minRefreshPeriod>
+</NetworkLinkControl>
+
+<Document>
+
+	<name>The IBM (Lenovo) ThinkPad Pool, with geodata</name>
+	<open>1</open>
+
+	
+	
+	<Style id="normal/photo/13897516599">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5514/13897516599_0cc3be8925_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/13897516599">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5514/13897516599_0cc3be8925_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/13897516599">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/13897516599</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/13897516599</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/13524386984">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm3.staticflickr.com/2927/13524386984_ca07e4357b_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/13524386984">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm3.staticflickr.com/2927/13524386984_ca07e4357b_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/13524386984">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/13524386984</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/13524386984</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/13182778414">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm8.staticflickr.com/7022/13182778414_a72e47169d_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/13182778414">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm8.staticflickr.com/7022/13182778414_a72e47169d_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/13182778414">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/13182778414</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/13182778414</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/9526989991">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5341/9526989991_95e961c8ce_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/9526989991">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5341/9526989991_95e961c8ce_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/9526989991">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/9526989991</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/9526989991</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/8032804246">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm9.staticflickr.com/8032/8032804246_8be4fe2c1e_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/8032804246">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm9.staticflickr.com/8032/8032804246_8be4fe2c1e_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/8032804246">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/8032804246</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/8032804246</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/7374873712">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm8.staticflickr.com/7218/7374873712_516dd61b21_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/7374873712">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm8.staticflickr.com/7218/7374873712_516dd61b21_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/7374873712">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/7374873712</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/7374873712</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/6972555162">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm9.staticflickr.com/8149/6972555162_d6fc478a22_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/6972555162">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm9.staticflickr.com/8149/6972555162_d6fc478a22_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/6972555162">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/6972555162</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/6972555162</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/6402798543">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm7.staticflickr.com/6226/6402798543_00d7aab382_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/6402798543">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm7.staticflickr.com/6226/6402798543_00d7aab382_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/6402798543">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/6402798543</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/6402798543</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/6072154857">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm7.staticflickr.com/6080/6072154857_2652d6c2dd_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/6072154857">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm7.staticflickr.com/6080/6072154857_2652d6c2dd_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/6072154857">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/6072154857</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/6072154857</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/5828349945">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5110/5828349945_49b0fc73b2_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/5828349945">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5110/5828349945_49b0fc73b2_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/5828349945">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/5828349945</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/5828349945</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/5371822584">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5290/5371822584_2fe4ff76f5_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/5371822584">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5290/5371822584_2fe4ff76f5_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/5371822584">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/5371822584</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/5371822584</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/5119560384">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm2.staticflickr.com/1347/5119560384_e3f017ba4c_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/5119560384">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm2.staticflickr.com/1347/5119560384_e3f017ba4c_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/5119560384">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/5119560384</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/5119560384</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/8956134499">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm8.staticflickr.com/7290/8956134499_2b3e594117_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/8956134499">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm8.staticflickr.com/7290/8956134499_2b3e594117_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/8956134499">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/8956134499</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/8956134499</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/8548976275">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm9.staticflickr.com/8246/8548976275_e5618a94d6_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/8548976275">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm9.staticflickr.com/8246/8548976275_e5618a94d6_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/8548976275">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/8548976275</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/8548976275</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/8512520748">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm9.staticflickr.com/8367/8512520748_8301ef4747_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/8512520748">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm9.staticflickr.com/8367/8512520748_8301ef4747_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/8512520748">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/8512520748</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/8512520748</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/6949683364">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5036/6949683364_b8c74bf990_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/6949683364">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5036/6949683364_b8c74bf990_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/6949683364">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/6949683364</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/6949683364</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/6536700675">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm8.staticflickr.com/7163/6536700675_bc64ca19ee_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/6536700675">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm8.staticflickr.com/7163/6536700675_bc64ca19ee_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/6536700675">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/6536700675</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/6536700675</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/5786092855">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm4.staticflickr.com/3457/5786092855_69a1019bfc_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/5786092855">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm4.staticflickr.com/3457/5786092855_69a1019bfc_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/5786092855">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/5786092855</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/5786092855</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/5260677233">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5165/5260677233_c56b491c81_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/5260677233">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm6.staticflickr.com/5165/5260677233_c56b491c81_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/5260677233">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/5260677233</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/5260677233</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/5122707603">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm5.staticflickr.com/4083/5122707603_7c385a02a3_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/5122707603">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>http://farm5.staticflickr.com/4083/5122707603_7c385a02a3_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/5122707603">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/5122707603</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/5122707603</styleUrl>
+      </Pair>
+    </StyleMap>
+
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/13897516599</styleUrl>
+			<name>stealth thinkpad</name>
+			<Snippet maxLines="4">
+				Complete new bottom half + RAM cover on my T9300 X61 - I like the look - no Windows COA, no MAC stickers, etc =]
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/aaronliao/13897516599/"><img src="http://farm6.staticflickr.com/5514/13897516599_0cc3be8925.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/aaronliao/13897516599/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/aaronliao/13897516599/">Open photo page</a></td></tr></table>
+					Complete new bottom half + RAM cover on my T9300 X61 - I like the look - no Windows COA, no MAC stickers, etc =]<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> April 30th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=61153157@N00&amp;format=kml_nl&amp;lang=en-us"><b>immaculate aaron</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=computing&amp;format=kml_nl&amp;lang=en-us">computing</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=lenovo&amp;format=kml_nl&amp;lang=en-us">lenovo</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=x61&amp;format=kml_nl&amp;lang=en-us">x61</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-122.260192,37.889869</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/13524386984</styleUrl>
+			<name>posts</name>
+			<Snippet maxLines="4">
+				My FrankenX61 posts to BIOS!
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/aaronliao/13524386984/"><img src="http://farm3.staticflickr.com/2927/13524386984_ca07e4357b.jpg" /></a>
+					<table border="0" padding="0" width="375"><tr><td align="right"><a href="http://www.flickr.com/photos/aaronliao/13524386984/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/aaronliao/13524386984/">Open photo page</a></td></tr></table>
+					My FrankenX61 posts to BIOS!<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> March 28th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=61153157@N00&amp;format=kml_nl&amp;lang=en-us"><b>immaculate aaron</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=computing&amp;format=kml_nl&amp;lang=en-us">computing</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=lenovo&amp;format=kml_nl&amp;lang=en-us">lenovo</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=x61&amp;format=kml_nl&amp;lang=en-us">x61</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-122.395820,37.784862</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/13182778414</styleUrl>
+			<name>run cool</name>
+			<Snippet maxLines="4">
+				Reflect-A-Gold tape where the wifi card generates heat on a palmrest I got on eBay for my new frankenlaptop project (the rare top bin CPU Lenovo ThinkPad X61 - Intel T9300 2.5ghz)<br />
+<br />
+The laptop itself came so beat up and gross that I'm replacing almost everything except the motherboard/proc and the LCD.  New lower half, keyboard and upper half (shown) pending install.
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/aaronliao/13182778414/"><img src="http://farm8.staticflickr.com/7022/13182778414_a72e47169d.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/aaronliao/13182778414/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/aaronliao/13182778414/">Open photo page</a></td></tr></table>
+					Reflect-A-Gold tape where the wifi card generates heat on a palmrest I got on eBay for my new frankenlaptop project (the rare top bin CPU Lenovo ThinkPad X61 - Intel T9300 2.5ghz)<br />
+<br />
+The laptop itself came so beat up and gross that I'm replacing almost everything except the motherboard/proc and the LCD.  New lower half, keyboard and upper half (shown) pending install.<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> March 15th, 2014&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=61153157@N00&amp;format=kml_nl&amp;lang=en-us"><b>immaculate aaron</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=ibm&amp;format=kml_nl&amp;lang=en-us">ibm</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=lenovo&amp;format=kml_nl&amp;lang=en-us">lenovo</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=x61&amp;format=kml_nl&amp;lang=en-us">x61</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-122.395820,37.784862</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/9526989991</styleUrl>
+			<name>ips panel</name>
+			<Snippet maxLines="4">
+				IPS (on left) vs a TN panel - what a difference!<br />
+<br />
+Left is my latest acquisition - the last of the true ThinkPads (X230+ moved to island style keyboards)<br />
+<br />
+Lenovo ThinkPad X220<br />
+<br />
+Intel Core i7-2640M 2.8ghz<br />
+16gb Kingston HyperX DDR3 1600<br />
+Samsung 830 256gb SSD
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/aaronliao/9526989991/"><img src="http://farm6.staticflickr.com/5341/9526989991_95e961c8ce.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/aaronliao/9526989991/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/aaronliao/9526989991/">Open photo page</a></td></tr></table>
+					IPS (on left) vs a TN panel - what a difference!<br />
+<br />
+Left is my latest acquisition - the last of the true ThinkPads (X230+ moved to island style keyboards)<br />
+<br />
+Lenovo ThinkPad X220<br />
+<br />
+Intel Core i7-2640M 2.8ghz<br />
+16gb Kingston HyperX DDR3 1600<br />
+Samsung 830 256gb SSD<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> August 16th, 2013&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=61153157@N00&amp;format=kml_nl&amp;lang=en-us"><b>immaculate aaron</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=laptop&amp;format=kml_nl&amp;lang=en-us">laptop</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=computing&amp;format=kml_nl&amp;lang=en-us">computing</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=lenovo&amp;format=kml_nl&amp;lang=en-us">lenovo</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-117.879371,33.620670</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/8032804246</styleUrl>
+			<name>IMAG0273</name>
+			<Snippet maxLines="4">
+				Its Friday and that means.....  :)
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/jemimus/8032804246/"><img src="http://farm9.staticflickr.com/8032/8032804246_8be4fe2c1e.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/jemimus/8032804246/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/jemimus/8032804246/">Open photo page</a></td></tr></table>
+					Its Friday and that means.....  :)<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> September 28th, 2012&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=12967790@N00&amp;format=kml_nl&amp;lang=en-us"><b>Jemimus</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=work&amp;format=kml_nl&amp;lang=en-us">work</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=mouse&amp;format=kml_nl&amp;lang=en-us">mouse</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=wine&amp;format=kml_nl&amp;lang=en-us">wine</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=desk&amp;format=kml_nl&amp;lang=en-us">desk</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>5.152702,52.261983</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/7374873712</styleUrl>
+			<name>Wine and Thinkpad</name>
+			<Snippet maxLines="4">
+				In my previous job i considdered it a luxury that i would sometimes have wine at my desk. Now i have it every Friday :)
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/jemimus/7374873712/"><img src="http://farm8.staticflickr.com/7218/7374873712_516dd61b21.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/jemimus/7374873712/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/jemimus/7374873712/">Open photo page</a></td></tr></table>
+					In my previous job i considdered it a luxury that i would sometimes have wine at my desk. Now i have it every Friday :)<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> June 15th, 2012&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=12967790@N00&amp;format=kml_nl&amp;lang=en-us"><b>Jemimus</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=rose&amp;format=kml_nl&amp;lang=en-us">rose</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=work&amp;format=kml_nl&amp;lang=en-us">work</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=office&amp;format=kml_nl&amp;lang=en-us">office</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=wine&amp;format=kml_nl&amp;lang=en-us">wine</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>5.162416,52.263186</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/6972555162</styleUrl>
+			<name>Ubuntulizing 12.04</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/davidsundah/6972555162/"><img src="http://farm9.staticflickr.com/8149/6972555162_d6fc478a22.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/davidsundah/6972555162/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/davidsundah/6972555162/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> April 27th, 2012&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=74088732@N00&amp;format=kml_nl&amp;lang=en-us"><b>dapito</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=linux&amp;format=kml_nl&amp;lang=en-us">linux</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=ubuntu&amp;format=kml_nl&amp;lang=en-us">ubuntu</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=1204&amp;format=kml_nl&amp;lang=en-us">1204</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>106.777718,-6.316699</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/6402798543</styleUrl>
+			<name>Godzy listening to YES</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/davidsundah/6402798543/"><img src="http://farm7.staticflickr.com/6226/6402798543_00d7aab382.jpg" /></a>
+					<table border="0" padding="0" width="375"><tr><td align="right"><a href="http://www.flickr.com/photos/davidsundah/6402798543/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/davidsundah/6402798543/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> November 26th, 2011&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=74088732@N00&amp;format=kml_nl&amp;lang=en-us"><b>dapito</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=monster&amp;format=kml_nl&amp;lang=en-us">monster</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=japan&amp;format=kml_nl&amp;lang=en-us">japan</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=godzilla&amp;format=kml_nl&amp;lang=en-us">godzilla</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>106.773888,-6.323889</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/6072154857</styleUrl>
+			<name>365/13 - ThinkPad</name>
+			<Snippet maxLines="4">
+				Canon EOS 50D<br />
+Tamron 18-270mm f/3.5-6.3 VC Di-II<br />
+65mm | f/11.0 | 1.6sec. | ISO-100 | -0,3EV<br />
+Subject distance: 0.67m<br />
+<br />
+[&lt;a href=&quot;http://www.flickr.com/photos/downhilldom1984/sets/72157627214828455/&quot;&gt;365&lt;/a&gt;]  [&lt;a href=&quot;http://www.flickr.com/photos/downhilldom1984/sets/72157625983673047/&quot;&gt;Technique&lt;/a&gt;]  [&lt;a href=&quot;http://www.fluidr.com/photos/downhilldom1984&quot; rel=&quot;nofollow&quot;&gt;fluidr&lt;/a&gt;] [&lt;a href=&quot;http://dominikbartsch.tumblr.com&quot; rel=&quot;nofollow&quot;&gt;tumblr&lt;/a&gt;]
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/downhilldom1984/6072154857/"><img src="http://farm7.staticflickr.com/6080/6072154857_2652d6c2dd.jpg" /></a>
+					<table border="0" padding="0" width="333"><tr><td align="right"><a href="http://www.flickr.com/photos/downhilldom1984/6072154857/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/downhilldom1984/6072154857/">Open photo page</a></td></tr></table>
+					Canon EOS 50D<br />
+Tamron 18-270mm f/3.5-6.3 VC Di-II<br />
+65mm | f/11.0 | 1.6sec. | ISO-100 | -0,3EV<br />
+Subject distance: 0.67m<br />
+<br />
+[&lt;a href=&quot;http://www.flickr.com/photos/downhilldom1984/sets/72157627214828455/&quot;&gt;365&lt;/a&gt;]  [&lt;a href=&quot;http://www.flickr.com/photos/downhilldom1984/sets/72157625983673047/&quot;&gt;Technique&lt;/a&gt;]  [&lt;a href=&quot;http://www.fluidr.com/photos/downhilldom1984&quot; rel=&quot;nofollow&quot;&gt;fluidr&lt;/a&gt;] [&lt;a href=&quot;http://dominikbartsch.tumblr.com&quot; rel=&quot;nofollow&quot;&gt;tumblr&lt;/a&gt;]<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> June 22nd, 2011&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=37008167@N06&amp;format=kml_nl&amp;lang=en-us"><b>downhilldom1984</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=stilllife&amp;format=kml_nl&amp;lang=en-us">stilllife</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=detail&amp;format=kml_nl&amp;lang=en-us">detail</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=contrast&amp;format=kml_nl&amp;lang=en-us">contrast</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=canon&amp;format=kml_nl&amp;lang=en-us">canon</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>8.026649,52.277597</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/5828349945</styleUrl>
+			<name>Oops.....</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/davidsundah/5828349945/"><img src="http://farm6.staticflickr.com/5110/5828349945_49b0fc73b2.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/davidsundah/5828349945/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/davidsundah/5828349945/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> June 7th, 2011&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=74088732@N00&amp;format=kml_nl&amp;lang=en-us"><b>dapito</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=bsod&amp;format=kml_nl&amp;lang=en-us">bsod</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=lenovo&amp;format=kml_nl&amp;lang=en-us">lenovo</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=t61&amp;format=kml_nl&amp;lang=en-us">t61</a><br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>106.827819,-6.171440</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/5371822584</styleUrl>
+			<name>kingspec ssd</name>
+			<Snippet maxLines="4">
+				Another KingSpec - this one for my X41.  unfortunately the X41's BIOS doesn't like non-Lenovo drives, and gives the nasty double BIOS beep.  All the same, compared to the 4200rpm 1.8&amp;quot; spinner that comes with the X40/X41, this is a massive improvement.<br />
+<br />
+Looks like the &lt;a href=&quot;http://www.flickr.com/photos/aaronliao/3892056560/&quot;&gt;casing has changed a bit&lt;/a&gt; and it's a &lt;a href=&quot;http://www.flickr.com/photos/aaronliao/3891900682/&quot;&gt;little bit faster than my other KingSpec&lt;/a&gt;.
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/aaronliao/5371822584/"><img src="http://farm6.staticflickr.com/5290/5371822584_2fe4ff76f5.jpg" /></a>
+					<table border="0" padding="0" width="374"><tr><td align="right"><a href="http://www.flickr.com/photos/aaronliao/5371822584/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/aaronliao/5371822584/">Open photo page</a></td></tr></table>
+					Another KingSpec - this one for my X41.  unfortunately the X41's BIOS doesn't like non-Lenovo drives, and gives the nasty double BIOS beep.  All the same, compared to the 4200rpm 1.8&amp;quot; spinner that comes with the X40/X41, this is a massive improvement.<br />
+<br />
+Looks like the &lt;a href=&quot;http://www.flickr.com/photos/aaronliao/3892056560/&quot;&gt;casing has changed a bit&lt;/a&gt; and it's a &lt;a href=&quot;http://www.flickr.com/photos/aaronliao/3891900682/&quot;&gt;little bit faster than my other KingSpec&lt;/a&gt;.<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> January 15th, 2011&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=61153157@N00&amp;format=kml_nl&amp;lang=en-us"><b>immaculate aaron</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=18&amp;format=kml_nl&amp;lang=en-us">18</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=pata&amp;format=kml_nl&amp;lang=en-us">pata</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=solidstatedrive&amp;format=kml_nl&amp;lang=en-us">solidstatedrive</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=kingspec64gbssd&amp;format=kml_nl&amp;lang=en-us">kingspec64gbssd</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-117.879371,33.620670</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/5119560384</styleUrl>
+			<name>Giving more power...</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/davidsundah/5119560384/"><img src="http://farm2.staticflickr.com/1347/5119560384_e3f017ba4c.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/davidsundah/5119560384/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/davidsundah/5119560384/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> October 27th, 2010&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=74088732@N00&amp;format=kml_nl&amp;lang=en-us"><b>dapito</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=sticker&amp;format=kml_nl&amp;lang=en-us">sticker</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=lenovo&amp;format=kml_nl&amp;lang=en-us">lenovo</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=t61&amp;format=kml_nl&amp;lang=en-us">t61</a><br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>106.779201,-6.146223</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/8956134499</styleUrl>
+			<name>flower power</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/davidsundah/8956134499/"><img src="http://farm8.staticflickr.com/7290/8956134499_2b3e594117.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/davidsundah/8956134499/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/davidsundah/8956134499/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> June 5th, 2013&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=74088732@N00&amp;format=kml_nl&amp;lang=en-us"><b>dapito</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=notebook&amp;format=kml_nl&amp;lang=en-us">notebook</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=laptop&amp;format=kml_nl&amp;lang=en-us">laptop</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=stickers&amp;format=kml_nl&amp;lang=en-us">stickers</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>106.777777,-6.316667</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/8548976275</styleUrl>
+			<name>thinkpads</name>
+			<Snippet maxLines="4">
+				change I don't really care for - ThinkPad X-series laptops getting wider and wider with screen resolution that doesn't really fit for productivity.<br />
+<br />
+X61s on top (1024x768)<br />
+X200s middle (1440x900)<br />
+X1 Carbon Touch bottom (1600x900)
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/aaronliao/8548976275/"><img src="http://farm9.staticflickr.com/8246/8548976275_e5618a94d6.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/aaronliao/8548976275/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/aaronliao/8548976275/">Open photo page</a></td></tr></table>
+					change I don't really care for - ThinkPad X-series laptops getting wider and wider with screen resolution that doesn't really fit for productivity.<br />
+<br />
+X61s on top (1024x768)<br />
+X200s middle (1440x900)<br />
+X1 Carbon Touch bottom (1600x900)<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> March 11th, 2013&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=61153157@N00&amp;format=kml_nl&amp;lang=en-us"><b>immaculate aaron</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=ibm&amp;format=kml_nl&amp;lang=en-us">ibm</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=lenovo&amp;format=kml_nl&amp;lang=en-us">lenovo</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=x61s&amp;format=kml_nl&amp;lang=en-us">x61s</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-117.879371,33.620670</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/8512520748</styleUrl>
+			<name>lenovo x1ct</name>
+			<Snippet maxLines="4">
+				My new Lenovo X1 Carbon Touch<br />
+<br />
+Intel i7-3667U 2.0/3.2GHz<br />
+8gb RAM<br />
+240gb SSD
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/aaronliao/8512520748/"><img src="http://farm9.staticflickr.com/8367/8512520748_8301ef4747.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/aaronliao/8512520748/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/aaronliao/8512520748/">Open photo page</a></td></tr></table>
+					My new Lenovo X1 Carbon Touch<br />
+<br />
+Intel i7-3667U 2.0/3.2GHz<br />
+8gb RAM<br />
+240gb SSD<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 26th, 2013&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=61153157@N00&amp;format=kml_nl&amp;lang=en-us"><b>immaculate aaron</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=laptop&amp;format=kml_nl&amp;lang=en-us">laptop</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=intel&amp;format=kml_nl&amp;lang=en-us">intel</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=computing&amp;format=kml_nl&amp;lang=en-us">computing</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-117.840500,33.676833</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/6949683364</styleUrl>
+			<name>IMAG0069</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/jemimus/6949683364/"><img src="http://farm6.staticflickr.com/5036/6949683364_b8c74bf990.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/jemimus/6949683364/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/jemimus/6949683364/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> April 20th, 2012&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=12967790@N00&amp;format=kml_nl&amp;lang=en-us"><b>Jemimus</b></a><br />
+										<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>5.162472,52.263583</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/6536700675</styleUrl>
+			<name>ThinkPad Ribbons</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/evone/6536700675/"><img src="http://farm8.staticflickr.com/7163/6536700675_bc64ca19ee.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/evone/6536700675/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/evone/6536700675/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> December 18th, 2011&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=27029142@N00&amp;format=kml_nl&amp;lang=en-us"><b>milaaan</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=light&amp;format=kml_nl&amp;lang=en-us">light</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=blackwhite&amp;format=kml_nl&amp;lang=en-us">blackwhite</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=ribbons&amp;format=kml_nl&amp;lang=en-us">ribbons</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=long&amp;format=kml_nl&amp;lang=en-us">long</a> ...<br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>19.504959,47.161159</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/5786092855</styleUrl>
+			<name>Thinkpad branded in-ear headphones 57Y4488</name>
+			<Snippet maxLines="4">
+				&lt;a href=&quot;http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/catalog.workflow:item.detail?GroupID=38&amp;amp;Code=57Y4488&amp;amp;current-category-id=F518DEACD67248538629B17343AFFB25&amp;amp;ProductName=ThinkCentre desktops&quot; rel=&quot;nofollow&quot;&gt;shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal...&lt;/a&gt;
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/jemimus/5786092855/"><img src="http://farm4.staticflickr.com/3457/5786092855_69a1019bfc.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/jemimus/5786092855/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/jemimus/5786092855/">Open photo page</a></td></tr></table>
+					&lt;a href=&quot;http://shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal/en_US/catalog.workflow:item.detail?GroupID=38&amp;amp;Code=57Y4488&amp;amp;current-category-id=F518DEACD67248538629B17343AFFB25&amp;amp;ProductName=ThinkCentre desktops&quot; rel=&quot;nofollow&quot;&gt;shop.lenovo.com/SEUILibrary/controller/e/web/LenovoPortal...&lt;/a&gt;<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> June 1st, 2011&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=12967790@N00&amp;format=kml_nl&amp;lang=en-us"><b>Jemimus</b></a><br />
+					<img width="15" height="15" src="/images/icon_tag_left.gif" />  <a href="http://api.flickr.com/services/feeds/geo/?tags=headphones&amp;format=kml_nl&amp;lang=en-us">headphones</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=thinkpad&amp;format=kml_nl&amp;lang=en-us">thinkpad</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=inear&amp;format=kml_nl&amp;lang=en-us">inear</a>,&amp;nbsp; <a href="http://api.flickr.com/services/feeds/geo/?tags=57y4488&amp;format=kml_nl&amp;lang=en-us">57y4488</a><br />					<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>4.285902,52.094244</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/5260677233</styleUrl>
+			<name>IMAG0224.jpg</name>
+			<Snippet maxLines="4">
+				New vs the Old. Thinkpad T510 (left) succeeds the T500 (right).  You can see the T510 borrows a lot of design features from the T400s/T410s family.
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/jemimus/5260677233/"><img src="http://farm6.staticflickr.com/5165/5260677233_c56b491c81.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/jemimus/5260677233/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/jemimus/5260677233/">Open photo page</a></td></tr></table>
+					New vs the Old. Thinkpad T510 (left) succeeds the T500 (right).  You can see the T510 borrows a lot of design features from the T400s/T410s family.<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> December 14th, 2010&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=12967790@N00&amp;format=kml_nl&amp;lang=en-us"><b>Jemimus</b></a><br />
+										<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>4.285922,52.094488</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/5122707603</styleUrl>
+			<name>IMAG0206</name>
+			<Snippet maxLines="4">
+				Lenovo Thinkpad T510
+			</Snippet> 
+  			<description>
+					<a href="http://www.flickr.com/photos/jemimus/5122707603/"><img src="http://farm5.staticflickr.com/4083/5122707603_7c385a02a3.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="http://www.flickr.com/photos/jemimus/5122707603/"><img width="13" height="10" src="/images/simple_new_window_default.gif" /></a> <a href="http://www.flickr.com/photos/jemimus/5122707603/">Open photo page</a></td></tr></table>
+					Lenovo Thinkpad T510<br />
+					<hr />
+					<img width="15" height="15" src="/images/spaceball.gif" /> <font color="#999999">Taken on</font> October 28th, 2010&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="http://api.flickr.com/services/feeds/geo/?id=12967790@N00&amp;format=kml_nl&amp;lang=en-us"><b>Jemimus</b></a><br />
+										<img width="15" height="15" src="/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>4.285430,52.094527</coordinates>
+			</Point>
+		</Placemark>
+
+</Document>
+</kml>
