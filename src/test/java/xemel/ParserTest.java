@@ -10,8 +10,8 @@ import java.io.InputStream;
 public class ParserTest extends TestCase {
     public void testParser() throws Exception {
         Parser p = new Parser(in("wiki.xml"));
-        new SExpressionPrinter().print(p, System.out);
-//        new XMLPrinter().print(p,System.out);
+//        new SExpressionPrinter().print(p, System.out);
+        new XMLPrinter().print(p,System.out);
     }
 
     private InputStream in(String name) {

@@ -41,4 +41,7 @@ public class SExpressionPrinter extends NodePrinter {
         }
         return s;
     }
+    public String closeNode(Node node) {
+        return ")";
+    }
 }

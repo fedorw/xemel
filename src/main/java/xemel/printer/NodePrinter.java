@@ -19,12 +19,13 @@ public abstract class NodePrinter {
     }
     private void printNodes(Node node, int indent, PrintStream out) {
         if (node.textOnly()) {
-            out.print(node2string(node, indent)+"");
+            out.print(node2string(node, indent)+"\n");
         } else {
             out.print(node2string(node, indent) + "\n");
         }
         for (Node n:node.getChildren()) {
             printNodes(n,indent+1, out);
+            out.print(indent(indent)+closeNode(node)+"\n");
         }
     }
     public String indent(int len) {
@@ -35,5 +36,8 @@ public abstract class NodePrinter {
         return s;
     }
     public abstract String node2string(Node node, int indent) ;
+
+    public abstract String closeNode(Node node) ;
+
 
 }

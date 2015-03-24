@@ -6,6 +6,7 @@ import xemel.Node;
  * Created by fedor on 3/24/15.
  */
 public class XMLPrinter extends NodePrinter {
+
     @Override
     public String node2string(Node node, int indent) {
         if (node.getText()!=null) {
@@ -33,5 +34,10 @@ public class XMLPrinter extends NodePrinter {
         }
         sb.append(">");
         return sb.toString();
+    }
+
+    @Override
+    public String closeNode(Node node) {
+        return "</"+node.getName()+">";
     }
 }
