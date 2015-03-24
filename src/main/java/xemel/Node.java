@@ -11,9 +11,9 @@ public class Node {
     public String getText() {
         return text;
     }
-public boolean textOnly() {
-    return children.size()==1 && children.get(0).isTextNode();
-}
+    public boolean textOnly() {
+        return children.size()==1 && children.get(0).isTextNode();
+    }
     public NodeList getChildren() {
         return children;
     }
@@ -36,13 +36,13 @@ public boolean textOnly() {
     public void addChild(Node node) {
         children.add(node);
     }
+    public Map<String, String> getAttributes() {
+        return attributes;
+    }
     public static Node parse(final StringBuilder str) {
         final String s = str.toString().trim();
         if (s.length()==0) {
             return null;
-        }
-        if (s.contains("<namespace ")) {
-            int uu=0;
         }
         Node n = new Node();
         if (s.startsWith("<")) {
@@ -111,68 +111,5 @@ public boolean textOnly() {
         }
         if (!gotname) { n.name=data.toString(); }
         return n;
-    }
-
-    public String toString() {
-        if (this.text!=null) {
-            return text.trim();
-        }
-
-        StringBuilder sb=new StringBuilder("<");
-        if (!begin && end) {
-            sb.append("/");
-        }
-        sb.append(name);
-        for (String v:attributes.keySet()) {
-            sb.append(" "+v+"='");
-            sb.append(attributes.get(v));
-            sb.append("'");
-        }
-        if (end && begin) {
-            sb.append("/");
-        }
-        sb.append(">");
-        return sb.toString();
-    }
-
-    private String indent(int size) {
-        String s="";
-        for (int i=0;i<size;i++) {
-            s+=" ";
-        }
-        return s;
-    }
-
-    public String toSExpr(int indent) {
-        if (text!=null) {
-            return  indent(indent)+"\""+text+"\"";
-        }
-        String s="";
-        if (isOpen()) {
-            s+=indent(indent)+"("+name;
-            if (attributes.size()>0) {
-                s += "\n" + indent(indent + 1) + "(@ ";
-                int count=0;
-                for (String k : attributes.keySet()) {
-                    count++;
-                    s += "(" + k + " \"" + attributes.get(k) + "\")";
-                    if (count<attributes.size()) {
-                        s+="\n"+indent(indent+1);
-                        s+="   ";
-                    }
-                }
-                s+=")\n";
-            }
-        }
-        if (isClose()) {
-            if (!textOnly()) {
-                s+=indent(indent) + ")\n";
-            }
-            else {
-                s+="\n";
-            }
-        }
-        return s;
-
     }
 }

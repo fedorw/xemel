@@ -6,7 +6,10 @@ import java.util.*;
 
 public class Parser {
     public static int BUFSIZE = 2048;
-    List<Node> nodes=new NodeList();
+    NodeList nodes=new NodeList();
+    public NodeList getNodes() {
+        return nodes;
+    }
     private Node root=null;
     public Parser(InputStream in) throws IOException  {
         char[] data=null;
@@ -19,35 +22,29 @@ public class Parser {
         }
         tokenize(data);
         buildTree();
-        printTree(root);
+//        printTree(root);
+    }
+
+    public Node getRoot() {
+        return root;
     }
 
 
-    void printTree(Node root) {
-        printNodes(root.getChildren(),0);
-    }
-    void printNodes(NodeList nodes, int indent) {
-        for (Node node:nodes) {
-            System.out.print(node.toSExpr(indent));
-            printNodes(node.getChildren(),indent+1);
-        }
-    }
-
-    void printNodes() {
-        int indent =0;
-        for (Node node:nodes) {
-            if (node.end) {
-                indent--;
-            }
-            for (int i=0;i<indent;i++) {
-                System.err.print(" ");
-            }
-            System.err.println(node);
-            if (node.begin) {
-                indent++;
-            }
-        }
-    }
+//    void printNodes() {
+//        int indent =0;
+//        for (Node node:nodes) {
+//            if (node.end) {
+//                indent--;
+//            }
+//            for (int i=0;i<indent;i++) {
+//                System.err.print(" ");
+//            }
+//            System.err.println(node);
+//            if (node.begin) {
+//                indent++;
+//            }
+//        }
+//    }
     void buildTree() {
         Stack<Node> stack=new Stack();
         boolean gotroot=false;
@@ -61,7 +58,9 @@ public class Parser {
                 stack.push(root);
                 continue;
             }
-            stack.peek().addChild(node);
+            if (!node.isClose()) {
+                stack.peek().addChild(node);
+            }
             if (node.isOpen() && !node.isClose() ) {
                 stack.push(node);
                 continue;
